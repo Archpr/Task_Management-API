@@ -101,6 +101,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+The requirements file contains only the minimal dependencies needed to run the API.
 
 ### 4. Create `.env` file
 ```env
